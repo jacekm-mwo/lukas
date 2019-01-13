@@ -9,3 +9,7 @@ public class SomeProgram {
     //TODO
     }
 }
+	public void manageTheSatellite() {
+    // TODO implement
+}
+}
